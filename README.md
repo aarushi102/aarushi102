@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aarushiajay4@gmail.com**
 
-- ⚡ Fun fact **I also like reading novels, documentations and I can cook**
+- ⚡ Fun fact **I like readin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
