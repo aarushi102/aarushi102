@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi102&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushi102" alt="aarushi102" /></a> </p>
-
 - 🌱 I’m currently learning **Kubernetes, Monitoring tools**
 
 - 📝 I regularly write articles on [https://medium.com/@aarushiajay4](https://medium.com/@aarushiajay4)
