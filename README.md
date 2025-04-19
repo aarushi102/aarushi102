@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi102&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi102" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Monitoring tools**
-
-- 📝 I regularly write articles on [https://medium.com/@aarushiajay4](https://medium.com/@aarushiajay4)
 
 - 💬 Ask me about **CI/CD, Docker, gitlab ci, aws**
 
 - 📫 How to reach me **aarushiajay4@gmail.com**
-
-- ⚡ Fun fact **I like readin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
